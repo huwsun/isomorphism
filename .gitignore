@@ -1,2 +1,6 @@
 /target/
 **/*.rs.bk
+/Isomorphism.iml
+/Isomorphism.ipr
+/Isomorphism.iws
+/Cargo.lock
